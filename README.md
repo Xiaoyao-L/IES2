@@ -1,2 +1,2 @@
 # IES2
-A website for System Engineering  [xiaoyao-l.github.io/ies2/](xiaoyao-l.github.io/ies2/)
+A website for System Engineering  [visit](https://xiaoyao-l.github.io/IES2/)
